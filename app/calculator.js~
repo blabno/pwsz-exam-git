@@ -2,10 +2,12 @@ module.exports = {
     add: function (a, b)
     {
         return a + b;
-
+<<<<<<< HEAD
+=======
     },
     subtract: function (a, b)
     {
         return  b - a;
+>>>>>>> 2701f843b66266dce28ede893262fcd89418654a
     }
 };
